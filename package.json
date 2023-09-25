@@ -25,6 +25,11 @@
         "label": "Mate",
         "uiTheme": "hc-black",
         "path": "./themes/Mate-color-theme.json"
+      },
+      {
+        "label": "Tereré",
+        "uiTheme": "hc-black",
+        "path": "./themes/Terere-color-theme.json"
       }
     ]
   }
