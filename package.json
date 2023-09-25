@@ -1,0 +1,31 @@
+{
+  "name": "mate",
+  "displayName": "Mate",
+  "description": "Yerba Mate based color theme 🧉",
+  "version": "0.0.1",
+  "author": {
+    "name": "Nicholas Velten",
+    "email": "nicholasfvelten@gmail.com"
+  },
+  "publisher": "NicholasVelten",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nfvelten/op-extension-pack"
+  },
+  "icon": "images/mate.jpg",
+  "engines": {
+    "vscode": "^1.82.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Mate",
+        "uiTheme": "hc-black",
+        "path": "./themes/Mate-color-theme.json"
+      }
+    ]
+  }
+}
