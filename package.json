@@ -2,15 +2,15 @@
   "name": "mate-theme",
   "displayName": "Mate Theme",
   "description": "Yerba Mate based color theme 🧉",
-  "version": "1.0.1",
+  "version": "1.0.5",
   "author": {
     "name": "Nicholas Velten",
     "email": "nicholasfvelten@gmail.com"
   },
-  "publisher": "MateTheme",
+  "publisher": "MateCreations",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Mate-Theme/mate"
+    "url": "https://github.com/mateCreations/Mate"
   },
   "icon": "images/mate.jpg",
   "engines": {
